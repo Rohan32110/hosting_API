@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 24.99
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 79.50
+    },
+    {
+      "id": 3,
+      "name": "HD Monitor",
+      "price": 199.99
+    },
+    {
+      "id": 4,
+      "name": "USB-C Hub",
+      "price": 34.25
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "price": 59.95
+    },
+    {
+      "id": 6,
+      "name": "Webcam 1080p",
+      "price": 49.99
+    },
+    {
+      "id": 7,
+      "name": "External SSD 1TB",
+      "price": 129.99
+    },
+    {
+      "id": 8,
+      "name": "Gaming Chair",
+      "price": 259.00
+    },
+    {
+      "id": 9,
+      "name": "Noise Cancelling Headphones",
+      "price": 149.75
+    },
+    {
+      "id": 10,
+      "name": "Smart Desk Lamp",
+      "price": 45.60
+    }
+  ]
+}
