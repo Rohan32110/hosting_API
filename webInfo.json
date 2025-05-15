@@ -1,54 +1,55 @@
 {
   "products": [
-    {
-      "id": 1,
-      "name": "Wireless Mouse",
-      "price": 24.99
-    },
-    {
-      "id": 2,
-      "name": "Mechanical Keyboard",
-      "price": 79.50
-    },
-    {
-      "id": 3,
-      "name": "HD Monitor",
-      "price": 199.99
-    },
-    {
-      "id": 4,
-      "name": "USB-C Hub",
-      "price": 34.25
-    },
-    {
-      "id": 5,
-      "name": "Bluetooth Speaker",
-      "price": 59.95
-    },
-    {
-      "id": 6,
-      "name": "Webcam 1080p",
-      "price": 49.99
-    },
-    {
-      "id": 7,
-      "name": "External SSD 1TB",
-      "price": 129.99
-    },
-    {
-      "id": 8,
-      "name": "Gaming Chair",
-      "price": 259.00
-    },
-    {
-      "id": 9,
-      "name": "Noise Cancelling Headphones",
-      "price": 149.75
-    },
-    {
-      "id": 10,
-      "name": "Smart Desk Lamp",
-      "price": 45.60
-    }
+    { "id": 1, "name": "Wireless Mouse", "price": 24.99 },
+    { "id": 2, "name": "Mechanical Keyboard", "price": 79.50 },
+    { "id": 3, "name": "HD Monitor", "price": 99.99 },
+    { "id": 4, "name": "USB-C Hub", "price": 34.25 },
+    { "id": 5, "name": "Bluetooth Speaker", "price": 59.95 },
+    { "id": 6, "name": "Webcam 1080p", "price": 49.99 },
+    { "id": 7, "name": "External SSD 512GB", "price": 89.99 },
+    { "id": 8, "name": "Ergonomic Mouse Pad", "price": 15.75 },
+    { "id": 9, "name": "Noise Cancelling Earbuds", "price": 64.50 },
+    { "id": 10, "name": "Smart Desk Lamp", "price": 45.60 },
+    { "id": 11, "name": "Portable Charger", "price": 29.99 },
+    { "id": 12, "name": "Laptop Stand", "price": 42.00 },
+    { "id": 13, "name": "Wireless Charger", "price": 22.50 },
+    { "id": 14, "name": "Compact Bluetooth Keyboard", "price": 38.95 },
+    { "id": 15, "name": "Gaming Mouse Pad", "price": 18.00 },
+    { "id": 16, "name": "USB Desk Fan", "price": 16.49 },
+    { "id": 17, "name": "Adjustable Phone Stand", "price": 13.20 },
+    { "id": 18, "name": "LED Strip Lights", "price": 25.00 },
+    { "id": 19, "name": "Laptop Sleeve", "price": 19.99 },
+    { "id": 20, "name": "Bluetooth Headphones", "price": 58.40 },
+    { "id": 21, "name": "Action Camera Mount Kit", "price": 23.45 },
+    { "id": 22, "name": "Mini Tripod", "price": 14.30 },
+    { "id": 23, "name": "Wireless Presenter", "price": 21.90 },
+    { "id": 24, "name": "Smart Plug", "price": 17.80 },
+    { "id": 25, "name": "Cable Organizer", "price": 11.99 },
+    { "id": 26, "name": "Drawing Tablet", "price": 66.60 },
+    { "id": 27, "name": "LED Monitor Lamp", "price": 48.25 },
+    { "id": 28, "name": "USB Sound Card", "price": 27.30 },
+    { "id": 29, "name": "Laptop Cooling Pad", "price": 35.00 },
+    { "id": 30, "name": "Portable Bluetooth Keyboard", "price": 52.90 },
+    { "id": 31, "name": "Wired Gaming Mouse", "price": 39.99 },
+    { "id": 32, "name": "Smart Thermometer", "price": 26.10 },
+    { "id": 33, "name": "Mini Projector Stand", "price": 32.00 },
+    { "id": 34, "name": "USB Microscope", "price": 58.00 },
+    { "id": 35, "name": "Rechargeable Book Light", "price": 12.75 },
+    { "id": 36, "name": "Handheld Vacuum Cleaner", "price": 88.90 },
+    { "id": 37, "name": "Bluetooth FM Transmitter", "price": 20.55 },
+    { "id": 38, "name": "Cable Management Box", "price": 29.40 },
+    { "id": 39, "name": "USB Numeric Keypad", "price": 18.95 },
+    { "id": 40, "name": "Clip-on Ring Light", "price": 22.75 },
+    { "id": 41, "name": "Mechanical Pencil Set", "price": 13.65 },
+    { "id": 42, "name": "Digital Alarm Clock", "price": 33.80 },
+    { "id": 43, "name": "Magnetic Phone Holder", "price": 14.50 },
+    { "id": 44, "name": "Laptop Backpack", "price": 55.30 },
+    { "id": 45, "name": "HD Webcam Cover", "price": 10.99 },
+    { "id": 46, "name": "Wireless Doorbell", "price": 41.10 },
+    { "id": 47, "name": "Travel Power Strip", "price": 36.70 },
+    { "id": 48, "name": "USB Rechargeable Fan", "price": 19.25 },
+    { "id": 49, "name": "Smartphone Gimbal", "price": 95.99 },
+    { "id": 50, "name": "Portable Photo Printer", "price": 98.50 }
   ]
 }
+
